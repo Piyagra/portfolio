@@ -244,7 +244,7 @@ animation-duration: 4s;
     }
 
     .whites {
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
     .name {
@@ -308,6 +308,7 @@ animation-duration: 4s;
     }
     .link{font-size: 16px;}
     .container3 {
+        margin-top: 30px;
         width: 100%;
         height: 270vh;
     }
@@ -320,7 +321,7 @@ animation-duration: 4s;
     }
 
     img {
-        width: 80%;
+        width: 100%;
     }
 
     .footer {
