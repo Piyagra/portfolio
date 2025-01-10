@@ -187,17 +187,18 @@ h1 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height: 90vh;
     width: 100%;
 
 
 }
 
 img {
-    padding: 5px;
+padding: 2px;
+
 }
 
 .tag {
+    margin-top: 100px;
     margin-left: 80px;
     color: white;
 }
@@ -292,7 +293,7 @@ img {
 
     .container2 {
         width: 100%;
-        height: 120vh;
+        height: 140vh;
         font-family: Arial
     }
 
@@ -337,19 +338,21 @@ img {
         display: block;
         width: 100%;
         padding-left: 40px;
-        height: 225vh;
+        /* height: 240vh; */
         margin-bottom: 0px;
+      
 
     }
-
+.figma{text-align: center;}
     img {
 
         width: 100%;
-        margin: 0px;
+        margin:5px;
     }
 
     .tag {
         margin-left: 40px;
+        height: 50vh;
     }
 
     .figma {
