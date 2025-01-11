@@ -179,7 +179,7 @@ h1 {
 
 .container3 {
     margin-top: 50px;
-    height: 100vh;
+    height: 110vh;
     color: white;
 }
 
@@ -207,6 +207,7 @@ img {
     margin-top: 100px;
     margin-left: 55px;
     color: white;
+    /* height: 30vh; */
 }
 
 .footer {
@@ -344,7 +345,6 @@ img {
         display: block;
         width: 90%;
         padding-left: 35px;
-
         margin-bottom: 0px;
 
 
@@ -364,7 +364,8 @@ img {
 
     .tag {
         margin-left: 40px;
-        height: 50vh;
+        height: 15vh;
+        margin-top: 10px;
     }
 
 
