@@ -193,19 +193,24 @@ h1 {
 }
 
 img {
-padding: 2px;
-height: 500px;
+    padding: 2px;
+    height: 500px;
 
+}
+
+.figma {
+    color: #a1c5ba;
+    display: none;
 }
 
 .tag {
     margin-top: 100px;
-    margin-left: 80px;
+    margin-left: 55px;
     color: white;
 }
 
 .footer {
-    height: 30vh;
+    height: 50vh;
     color: #a1c5ba;
     margin-top: 100px;
 }
@@ -332,23 +337,29 @@ height: 500px;
         display: block;
         margin-top: 20px;
         width: 100%;
-        height: 360vh;
+        height: 300vh;
     }
 
     .work {
         display: block;
         width: 90%;
         padding-left: 35px;
-    
+
         margin-bottom: 0px;
-      
+
 
     }
-.figma{text-align: center;}
+
+    .figma {
+        text-align: center;
+        color: #2bbd91;display: block;
+        font-weight: bold;
+    }
+
     img {
-position: relative;
-        /* height: 300px; */
-        margin:5px;
+        position: relative;
+
+        margin: 5px;
     }
 
     .tag {
@@ -356,12 +367,10 @@ position: relative;
         height: 50vh;
     }
 
-    .figma {
-        text-align: center;
-    }
 
     .footer {
-        margin: 0px;
+
+        margin-top: 100px;
         height: 50vh;
     }
 
